@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **aliyan989pc@gmail.com | aliyan9117@gmail.com**
 
-- 📄 Know about my experiences [Currently Doing Freelancing as a Part time](Currently Doing Freelancing as a Part time)
+- 📄 Know about my experiences | Currently Doing Freelancing as a Part time
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
