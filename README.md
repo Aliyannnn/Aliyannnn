@@ -71,4 +71,4 @@ AI-based resume review tool offering feedback on structure, keyword usage, and j
 
 ---
 
-⭐ _"Building the web, one project at a time."_  
+⭐ _"Building exicting and cool Projects."_  
