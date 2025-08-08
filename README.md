@@ -21,5 +21,5 @@ I'm a Full Stack Web Developer (MERN) passionate about building real-world apps 
 </ul>
 
 ## 📫 Contact Me
-- 🐦 [X](https://twitter.com/yourhandle](https://x.com/Aliyann712709)
+- 🐦 [X](https://x.com/Aliyann712709)
 - 📧 aliyan989pc@gmail.com
